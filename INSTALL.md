@@ -43,6 +43,8 @@ Perl modules (install from CPAN if needed e.g. `perl -MCPAN -e 'install X'`):
 
   Users of OS X 10.5 and below will need to install a newer Perl (via `port`/`brew`).
 
+  * confirmed: No need to add CPAN modules on OSX 10.7 lion
+
 ### How to run as a daemon on Mac 10.6
 
     $ cp hairtunes shairport.pl /usr/local/bin
